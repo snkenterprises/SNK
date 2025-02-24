@@ -1,0 +1,2813 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\animate.css",
+      "PackagePath": "staticwebassets\\cssUser\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\helper.css",
+      "PackagePath": "staticwebassets\\cssUser\\helper.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\advance-widget.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\advance-widget.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\amchart.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\amchart.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\badge.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\badge.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\booking-system.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\booking-system.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\breadcrumb.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\breadcrumb.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\button.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\button.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\calendar.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\calendar.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\card.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\card.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\carousel.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\carousel.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\chart.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\chart.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\chartist.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\chartist.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\chat.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\chat.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\compose-email.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\compose-email.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\data-table.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\data-table.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\datamap.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\datamap.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\error.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\error.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\favourite_menu.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\favourite_menu.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\flot-chart.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\flot-chart.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\font.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\font.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\fonts.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\fonts.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\footer.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\footer.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\form-validation.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\form-validation.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\forms.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\forms.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\global.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\global.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\gmap.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\gmap.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\header.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\header.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\invoice-edit.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\invoice-edit.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\invoice.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\invoice.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\knob.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\knob.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\login.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\login.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\menu-upload.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\menu-upload.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\modal.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\modal.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\morris-chart.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\morris-chart.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\nestable.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\nestable.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\order-list.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\order-list.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\order-progress.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\order-progress.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\pagination.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\pagination.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\panel.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\panel.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\preloader.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\preloader.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\products_1.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\products_1.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\products_2.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\products_2.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\products_3.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\products_3.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\profile-widget.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\profile-widget.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\profile.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\profile.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\progress-bar.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\progress-bar.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\recent-comments.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\recent-comments.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\recent-message.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\recent-message.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\responsive.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\responsive.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\scrollable.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\scrollable.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\search.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\search.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\sidebar.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\sidebar.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\social-media-stats.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\social-media-stats.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\style.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\style.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\tab.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\tab.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\table-export.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\table-export.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\table.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\table.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\timeline.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\timeline.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\todo-list.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\todo-list.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\ui-block-quote.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\ui-block-quote.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\ui-element-basic.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\ui-element-basic.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\ui-user-card.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\ui-user-card.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\variable.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\variable.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\vector-map.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\vector-map.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\vertical-carousel.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\vertical-carousel.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\weather.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\weather.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\less\\widget-stat.less",
+      "PackagePath": "staticwebassets\\cssUser\\less\\widget-stat.less"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\amchart\\export.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\amchart\\export.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\barRating\\barRating.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\barRating\\barRating.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\calendar2\\pignose.calendar.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\calendar2\\pignose.calendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\calendar2\\semantic.ui.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\calendar2\\semantic.ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\calendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\calendar\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\chartist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\chartist\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\data-table\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\data-table\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\data-table\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\data-table\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\data-table\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\data-table\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\datepicker\\bootstrap-datepicker3.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\datepicker\\bootstrap-datepicker3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\html5-editor\\bootstrap-wysihtml5.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\html5-editor\\bootstrap-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\jsgrid\\jsgrid-theme.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\jsgrid\\jsgrid-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\jsgrid\\jsgrid.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\jsgrid\\jsgrid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\line-progress\\jquery.lineProgressbar.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\line-progress\\jquery.lineProgressbar.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\lobi-panel\\lobipanel.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\lobi-panel\\lobipanel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\menubar\\sidebar.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\menubar\\sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\metismenu\\menu.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\metismenu\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\nestable\\nestable.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\nestable\\nestable.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\preloader\\pace.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\preloader\\pace.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rangSlider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rangSlider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinHTML5.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinHTML5.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinModern.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinModern.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinNice.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinNice.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinSimple.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rangSlider\\ion.rangeSlider.skinSimple.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rangSlider\\normalize.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rangSlider\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\rickshaw-chart\\rickshaw.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\rickshaw-chart\\rickshaw.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\scrollable\\scrollable.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\scrollable\\scrollable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\cssUser\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\spinners.css",
+      "PackagePath": "staticwebassets\\cssUser\\spinners.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\style.css",
+      "PackagePath": "staticwebassets\\cssUser\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\cssUser\\template.css",
+      "PackagePath": "staticwebassets\\cssUser\\template.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ad.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\af.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ag.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\al.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\am.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ao.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\aq.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\as.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\at.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\au.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\aw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ax.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\az.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ba.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bb.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bd.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\be.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bh.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bi.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bj.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bl.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bo.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bq.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\br.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bs.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bt.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bv.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\by.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\bz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cd.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ch.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ci.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cl.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\co.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cu.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cv.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cx.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cy.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\cz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\de.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\dj.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\dk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\dm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\do.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\dz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\eg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\eh.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\er.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\es.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\et.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\fi.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\fj.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\fk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\fm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\fo.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ga.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gd.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ge.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gh.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gi.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gl.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gp.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gq.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gs.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gt.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gu.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\gy.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\hk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\hm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\hn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\hr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ht.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\hu.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\id.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ie.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\il.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\im.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\in.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\io.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\iq.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ir.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\is.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\it.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\je.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\jm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\jo.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\jp.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ke.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\kg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\kh.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ki.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\km.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\kn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\kp.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\kr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\kw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ky.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\kz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\la.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\lb.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\lc.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\li.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\lk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\lr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ls.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\lt.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\lu.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\lv.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ly.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ma.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\md.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\me.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mh.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ml.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mo.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mp.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mq.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ms.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mt.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mu.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mv.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mx.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\my.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\mz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\nc.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ne.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\nf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ng.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ni.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\nl.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\no.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\np.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\nr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\nu.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\nz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\om.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pa.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pe.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ph.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pl.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pt.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\pw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\py.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\qa.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\re.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ro.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\rs.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ru.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\rw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sa.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sb.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sd.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\se.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sh.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\si.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sj.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sl.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\so.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ss.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\st.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sv.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sx.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sy.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\sz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tc.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\td.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\th.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tj.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tk.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tl.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\to.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tr.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tt.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\tz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ua.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ug.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\uy.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\uz.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\va.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\vc.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ve.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\vg.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\vi.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\vn.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\vu.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\wf.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ws.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\ye.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\yt.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\za.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\zm.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\flag-icon-css\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\icons\\flag-icon-css\\flags\\zw.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-arrows-10.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-arrows-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-arrows-10.svg",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-arrows-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-arrows-10.woff",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-arrows-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-arrows-10d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-arrows-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-10.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-10.svg",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-10.ttf",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-10.woff",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-10d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-music-10.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-music-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-music-10.svg",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-music-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-music-10.ttf",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-music-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-music-10.woff",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-music-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-music-10d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-music-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-software-10.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-software-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-software-10.svg",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-software-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-software-10.ttf",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-software-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-software-10.woff",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-software-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-software-10d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-software-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-weather-10.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-weather-10.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-weather-10.svg",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-weather-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-weather-10.ttf",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-weather-10.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-weather-10.woff",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-weather-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\fonts\\linea-weather-10d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\fonts\\linea-weather-10d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\linea-icons\\linea.css",
+      "PackagePath": "staticwebassets\\icons\\linea-icons\\linea.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.eot",
+      "PackagePath": "staticwebassets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.svg",
+      "PackagePath": "staticwebassets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.ttf",
+      "PackagePath": "staticwebassets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.woff",
+      "PackagePath": "staticwebassets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.woff2",
+      "PackagePath": "staticwebassets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontdc99.woff2"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.eot",
+      "PackagePath": "staticwebassets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.svg",
+      "PackagePath": "staticwebassets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.ttf",
+      "PackagePath": "staticwebassets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.woff",
+      "PackagePath": "staticwebassets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.woff2",
+      "PackagePath": "staticwebassets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c82.woff2"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\themify-icons\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\icons\\themify-icons\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\themify-icons\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\icons\\themify-icons\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\themify-icons\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\icons\\themify-icons\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\FBR.png",
+      "PackagePath": "staticwebassets\\img\\FBR.png"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\Govt.png",
+      "PackagePath": "staticwebassets\\img\\Govt.png"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\Hospital.jpg",
+      "PackagePath": "staticwebassets\\img\\Hospital.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\IMG_2908.png",
+      "PackagePath": "staticwebassets\\img\\IMG_2908.png"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\SNkjp.jpeg",
+      "PackagePath": "staticwebassets\\img\\SNkjp.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\awan.jpg",
+      "PackagePath": "staticwebassets\\img\\awan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\back2.jpg",
+      "PackagePath": "staticwebassets\\img\\back2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\background01.jpg",
+      "PackagePath": "staticwebassets\\img\\background01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\background02.jpg",
+      "PackagePath": "staticwebassets\\img\\background02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\img\\background03.jpg",
+      "PackagePath": "staticwebassets\\img\\background03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\custom.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\data.js",
+      "PackagePath": "staticwebassets\\jsUser\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\jsUser\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\barRating\\barRating.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\barRating\\barRating.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\barRating\\jquery.barrating.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\barRating\\jquery.barrating.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\c3\\c3-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\c3\\c3-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\c3\\c3.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\c3\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\c3\\d3.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\c3\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\calendar-2\\moment.latest.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\calendar-2\\moment.latest.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\calendar-2\\pignose.calendar.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\calendar-2\\pignose.calendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\calendar-2\\pignose.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\calendar-2\\pignose.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\calendar-2\\prism.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\calendar-2\\prism.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\calendar-2\\semantic.ui.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\calendar-2\\semantic.ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\calendar\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\calendar\\fullcalendar-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\calendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\calendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\amchart-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\amchart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\amcharts.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\ammap.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\ammap.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\amstock.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\amstock.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\export.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\light.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\pie.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\pie.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\serial.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-amchart\\worldLow.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-amchart\\worldLow.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chart-js\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chart-js\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chartist\\chartist-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chartist\\chartist-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chartist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chartist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\chat-widget\\chat-widget-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\chat-widget\\chat-widget-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\circle-progress\\circle-progress-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\circle-progress\\circle-progress-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\circle-progress\\circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datamap\\d3.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datamap\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datamap\\datamap-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datamap\\datamap-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datamap\\datamaps.world.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datamap\\datamaps.world.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datamap\\topojson.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datamap\\topojson.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdn.datatables.net\\buttons\\1.2.2\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdn.rawgit.com\\bpampuch\\pdfmake\\0.1.18\\build\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdn.rawgit.com\\bpampuch\\pdfmake\\0.1.18\\build\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdn.rawgit.com\\bpampuch\\pdfmake\\0.1.18\\build\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdn.rawgit.com\\bpampuch\\pdfmake\\0.1.18\\build\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdn.rawgit.com\\google\\code-prettify\\master\\loader\\run_prettify2102.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdn.rawgit.com\\google\\code-prettify\\master\\loader\\run_prettify2102.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdnjs.cloudflare.com\\ajax\\libs\\jqueryui-touch-punch\\0.2.3\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdnjs.cloudflare.com\\ajax\\libs\\jqueryui-touch-punch\\0.2.3\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\cdnjs.cloudflare.com\\ajax\\libs\\jszip\\2.5.0\\jszip.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\cdnjs.cloudflare.com\\ajax\\libs\\jszip\\2.5.0\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\datatables-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\datatables-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\easing\\stepup-form-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\easing\\stepup-form-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\echart\\dashboard1-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\echart\\dashboard1-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\echart\\echarts-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\echart\\echarts-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\echart\\echarts.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\echart\\echarts.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\curvedLines.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\curvedLines.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\excanvas.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\flot-chart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\flot-tooltip\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\flot-tooltip\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\flot-chart\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\flot-chart\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\form-validation\\jquery.validate-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\form-validation\\jquery.validate-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\form-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\form-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\gmap\\gmap.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\gmap\\gmap.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\google-chart\\google-charts.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\google-chart\\google-charts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\google-chart\\google-jsapi.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\google-chart\\google-jsapi.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\granim\\granim-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\granim\\granim-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\granim\\granim.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\granim\\granim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\highchart\\highcharts-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\highchart\\highcharts-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\highchart\\highcharts-modules-exporting.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\highchart\\highcharts-modules-exporting.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\highchart\\highcharts-more.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\highchart\\highcharts-more.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\highchart\\highcharts.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\highchart\\highcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\html5-editor\\bootstrap-wysihtml5.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\html5-editor\\bootstrap-wysihtml5.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\html5-editor\\wysihtml5-0.3.0.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\html5-editor\\wysihtml5-0.3.0.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\html5-editor\\wysihtml5-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\html5-editor\\wysihtml5-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jquery-ui\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jquery-ui\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\db.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\db.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.checkbox.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.checkbox.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.control.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.control.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.number.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.number.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.select.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.select.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.text.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.text.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.textarea.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\fields\\jsgrid.field.textarea.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\jsgrid-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\jsgrid-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\jsgrid.core.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\jsgrid.core.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\jsgrid.field.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\jsgrid.field.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\jsgrid.load-indicator.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\jsgrid.load-indicator.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\jsgrid.load-strategies.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\jsgrid.load-strategies.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\jsgrid.sort-strategies.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\jsgrid.sort-strategies.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\jsgrid\\jsgrid.validation.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\jsgrid\\jsgrid.validation.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\justgage\\justgage.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\justgage\\justgage.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\justgage\\justgage.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\justgage\\justgage.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\justgage\\raphael-min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\justgage\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\knob\\knob.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\knob\\knob.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\line-progress\\jquery.lineProgressbar.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\line-progress\\jquery.lineProgressbar.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\line-progress\\line-progress-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\line-progress\\line-progress-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\menubar\\sidebar.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\menubar\\sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\metismenu\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\metismenu\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\metismenu\\metismenu.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\metismenu\\metismenu.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\metismenu\\metismenu.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\metismenu\\metismenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\moment\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\morris-chart\\dashboard1-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\morris-chart\\dashboard1-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\morris-chart\\morris-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\morris-chart\\morris-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\morris-chart\\morris.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\morris-chart\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\morris-chart\\raphael-min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\morris-chart\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\nestable\\nestable.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\nestable\\nestable.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\owl-carousel\\owl.carousel-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\owl-carousel\\owl.carousel-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\peitychart\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\peitychart\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\peitychart\\peitychart.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\peitychart\\peitychart.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\portlets\\portlets-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\portlets\\portlets-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\portlets\\portlets.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\portlets\\portlets.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\preloader\\pace.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\preloader\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rangeSlider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rangeSlider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rangeSlider\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rangeSlider\\moment-with-locales.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rangeSlider\\moment.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rangeSlider\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rangeSlider\\rangeslider.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rangeSlider\\rangeslider.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rating1\\jRate.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rating1\\jRate.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rating1\\jRate.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rating1\\jRate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rickshaw\\d3.layout.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rickshaw\\d3.layout.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rickshaw\\d3.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rickshaw\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rickshaw\\rickshaw-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rickshaw\\rickshaw-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\rickshaw\\rickshaw.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\rickshaw\\rickshaw.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\scrollable\\holder.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\scrollable\\holder.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\scrollable\\jquery-asScrollable.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\scrollable\\jquery-asScrollable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\scrollable\\jquery-asScrollbar.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\scrollable\\jquery-asScrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\scrollable\\scrollable.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\scrollable\\scrollable.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\sparklinechart\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\sparklinechart\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\sparklinechart\\sparkline.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\sparklinechart\\sparkline.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\sticky-kit-master\\dist\\sticky-kit.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\sticky-kit-master\\dist\\sticky-kit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\sweetalert\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\sweetalert\\sweetalert.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\toastr\\toastr.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\toastr\\toastr.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\country\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\country\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\vector-map\\vector.init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\vector-map\\vector.init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\weather\\jquery.simpleWeather.min.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\weather\\jquery.simpleWeather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\lib\\weather\\weather-init.js",
+      "PackagePath": "staticwebassets\\jsUser\\lib\\weather\\weather-init.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\scripts.js",
+      "PackagePath": "staticwebassets\\jsUser\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\jsUser\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\jsUser\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\neelk\\source\\repos\\SNKWebsite\\SNKWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.SNKWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.SNKWebsite.props",
+      "PackagePath": "build\\SNKWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SNKWebsite.props",
+      "PackagePath": "buildMultiTargeting\\SNKWebsite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.SNKWebsite.props",
+      "PackagePath": "buildTransitive\\SNKWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

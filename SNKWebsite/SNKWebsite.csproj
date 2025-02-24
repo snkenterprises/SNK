@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="css\**" />
+    <Compile Remove="js\**" />
+    <Content Remove="css\**" />
+    <Content Remove="js\**" />
+    <EmbeddedResource Remove="css\**" />
+    <EmbeddedResource Remove="js\**" />
+    <None Remove="css\**" />
+    <None Remove="js\**" />
+  </ItemGroup>
+
+</Project>

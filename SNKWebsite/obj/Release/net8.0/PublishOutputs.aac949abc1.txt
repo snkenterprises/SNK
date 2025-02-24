@@ -1,0 +1,7 @@
+C:\Users\neelk\source\repos\SNKWebsite\SNKWebsite\obj\Release\net8.0\PubTmp\Out\SNKWebsite.exe
+C:\Users\neelk\source\repos\SNKWebsite\SNKWebsite\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\neelk\source\repos\SNKWebsite\SNKWebsite\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\neelk\source\repos\SNKWebsite\SNKWebsite\obj\Release\net8.0\PubTmp\Out\SNKWebsite.dll
+C:\Users\neelk\source\repos\SNKWebsite\SNKWebsite\obj\Release\net8.0\PubTmp\Out\SNKWebsite.deps.json
+C:\Users\neelk\source\repos\SNKWebsite\SNKWebsite\obj\Release\net8.0\PubTmp\Out\SNKWebsite.runtimeconfig.json
+C:\Users\neelk\source\repos\SNKWebsite\SNKWebsite\obj\Release\net8.0\PubTmp\Out\SNKWebsite.pdb
